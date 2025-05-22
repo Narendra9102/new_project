@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 git add README.md
 =======
 # Getting Started with Create React App
